@@ -1,15 +1,6 @@
-if (1) {
-    console.log("OK!");
-} else {
-console.log("Error");
-    }
-const num = 50;
+let home = 5;
+console.log(home);
 
-if (num < 49) {
-    console.log("Error");
-} else if (num > 100) {
-    console.log("Много");
-} else   {
-    console.log("OK!");
 
-}
+let hop = 3;
+console.log(hop);
